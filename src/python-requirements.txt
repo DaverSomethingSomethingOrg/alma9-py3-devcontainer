@@ -1,0 +1,8 @@
+virtualenv
+build
+twine
+pylint
+pytest
+coverage
+mkdocs-techdocs-core
+markdown-callouts
