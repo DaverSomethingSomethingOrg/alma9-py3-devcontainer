@@ -6,9 +6,10 @@ This container image is based on AlmaLinux 9, see their license details for more
 
 - https://almalinux.org/p/the-almalinux-os-licensing-policy/
 
-The Dockerfile and other contents of this repo only are licensed as follows:
+The Dockerfile and other contents of **this repo only** are licensed as follows:
 
 Copyright (c)2024 David L. Armstrong
+
 See included 'LICENSE.txt' file for license details
 
 # Description
