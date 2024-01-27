@@ -1,6 +1,6 @@
 {
   "name": "AlmaLinux 9 Python3 Devcontainer Image",
-  "image": "ghcr.io/daversomethingsomething/alma9-py3-devcontainer:main",
+  "image": "ghcr.io/daversomethingsomethingorg/alma9-py3-devcontainer:main",
   "mounts": ["source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"],
 //  "remoteUser": "luser",
   "customizations": {
