@@ -3,6 +3,8 @@ build
 twine
 pylint
 pytest
+pytest-cov
 coverage
 mkdocs-techdocs-core
 markdown-callouts
+pylint-exit
