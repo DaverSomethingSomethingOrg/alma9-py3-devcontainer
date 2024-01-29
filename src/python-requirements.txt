@@ -8,3 +8,4 @@ coverage
 mkdocs-techdocs-core
 markdown-callouts
 pylint-exit
+pylint-json2html
