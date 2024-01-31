@@ -4,6 +4,7 @@ twine
 pylint
 pytest
 pytest-cov
+pytest-datadir
 coverage
 mkdocs-techdocs-core
 markdown-callouts
