@@ -8,5 +8,6 @@ pytest-datadir
 coverage
 mkdocs-techdocs-core
 markdown-callouts
+mkdocstrings[python]
 pylint-exit
 pylint-json2html
